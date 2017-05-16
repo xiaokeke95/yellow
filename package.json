@@ -1,0 +1,14 @@
+{
+  "name": "baoming",
+  "version": "1.0.0",
+  "description": "frtgttggt",
+  "main": "index.js",
+  "scripts": {
+    "test": "hj"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "xiaoxiannv",
+  "license": "ISC"
+}
